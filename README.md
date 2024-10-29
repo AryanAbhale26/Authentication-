@@ -39,7 +39,7 @@ An authentication application that provides user login, sign-up, and home page f
 ## License
 This project is licensed under the MIT License.
 
-Feel free to copy and paste this directly into your GitHub README editor. If you have any other modifications or questions, let me know!
+Feel free to copy and paste this directly into your code editor. If you have any other modifications or questions, let me know!
 
 
 
